@@ -1,0 +1,4 @@
+claudefinder
+*.db
+*.db-shm
+*.db-wal
